@@ -27,8 +27,12 @@
 - 生活指数：https://free-api.heweather.com/s6/weather/lifestyle
 - 3-10天天气预报：https://free-api.heweather.com/s6/weather/forecast
 
+api每天可以免费请求1000次。
+
 [api文档参考](http://www.heweather.com/documents/api/s6)
 
+
+小程序开发时间一共不到一天，本身难度不大，就是有些细节可能一会想不到，希望我能让它正式上线吧，只有真正使用了才知道哪里不足。
 
 
 
